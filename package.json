@@ -1,0 +1,12 @@
+{
+  "name": "VideoFrame",
+  "version": "0.2.2",
+  "description": "HTML5 Video - SMPTE Time Code capturing and Frame Seeking API",
+  "main": "VideoFrame.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoshuaCWebDeveloper/VideoFrame.git"
+  },
+  "author": "Allen Sarkisyan",
+  "license": "MIT"
+}
